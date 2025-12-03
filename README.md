@@ -66,11 +66,15 @@ Full-Stack Virtual Library Application | Team Leader
 
 ## 📊 GitHub Stats
 
-![María José's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjfy93&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjfy93&layout=compact&theme=radical)](https://github.com/mjfy93)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mjfy93&theme=radical)](https://github.com/mjfy93)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mjfy93&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjfy93&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjfy93&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## 🎓 Education & Certifications
 
