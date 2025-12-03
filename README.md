@@ -2,14 +2,14 @@
 
 ## 🚀 About Me
 
-I'm a **Junior Full-Stack Developer** with a special focus on **Front-end Development**, based in Bogotá, Colombia. With 9+ years of professional experience in client-facing technical projects, I bring a unique perspective to software development—combining meticulous attention to detail with strong stakeholder communication and project management skills.
+I'm a Junior Full-Stack Developer with a special focus on Front-end Development, based in Bogotá, Colombia. With 9+ years of professional experience in client-facing technical projects, I bring a unique perspective to software development—combining meticulous attention to detail with strong stakeholder communication and project management skills.
 
-- 🔭 I'm currently working on **advanced React projects** with **WebGL animations** and **serverless architectures**
-- 🌱 I'm currently learning **advanced React patterns**, **UI/UX design principles**, and **GSAP animations**
-- 👯 I'm looking to collaborate on **open-source projects** and **innovative web applications**
-- 💼 I'm actively seeking opportunities in **Front-end or Full-Stack Development roles**
-- 🌍 Bilingual professional fluent in **Spanish** and **English**, with knowledge of Portuguese and German
-- ⚡ Fun fact: I'm an **Official Translator and Interpreter** with a passion for bridging communication gaps—whether between languages or between code and users!
+- 🔭 I'm currently working on advanced React projects with WebGL animations and serverless architectures
+- 🌱 I'm currently learning advanced React patterns, UI/UX design principles, and GSAP animations
+- 👯 I'm looking to collaborate on open-source projects and innovative web applications
+- 💼 I'm actively seeking opportunities in Front-end or Full-Stack Development roles
+- 🌍 Bilingual professional fluent in Spanish and English, with knowledge of Portuguese and German
+- ⚡ Fun fact: I'm an Official Translator and Interpreter with a passion for bridging communication gaps—whether between languages or between code and users!
 
 ## 🛠️ Tech Stack
 
@@ -46,20 +46,23 @@ I'm a **Junior Full-Stack Developer** with a special focus on **Front-end Develo
 
 ## 📂 Featured Projects
 
+
 ### 🗡️ [Lord of the Rings Blog](https://github.com/mjfy93/lotr-blog)
-**Modern LOTR Encyclopedia with Advanced Animations**
+Modern LOTR Encyclopedia with Advanced Animations
 - Built with React Router v7 (SSR), Vite, and CSS Modules
 - Secure API integration using resource routes as serverless proxies to protect bearer tokens
 - Advanced WebGL animations with React Bits and custom light ray effects
 - GSAP-powered interactive menu with directional animations
 - Responsive design with lazy loading and code splitting
+  
 
 ### 🔖 [BooketList](https://github.com/mjfy93/booketlist)
-**Full-Stack Virtual Library Application** | *Team Leader*
+Full-Stack Virtual Library Application | Team Leader
 - Built with React, Python, Flask, and PostgreSQL
 - Features user authentication, personal book collections, and 1-5 star rating system
 - Implemented RESTful API with SQLAlchemy ORM for CRUD operations
 - Deployed on Vercel (frontend) and Render (backend)
+  
 
 ## 📊 GitHub Stats
 
@@ -71,13 +74,13 @@ I'm a **Junior Full-Stack Developer** with a special focus on **Front-end Develo
 
 ## 🎓 Education & Certifications
 
-**Full Stack Software Developer Bootcamp** - 4Geeks Academy (2025)
+Full Stack Software Developer Bootcamp - 4Geeks Academy (2025)
 - 360-hour intensive program covering modern web development stack
 - Front-end: HTML/CSS, JavaScript, React.js, React Router, Bootstrap
 - Back-end: Python, Flask, RESTful APIs, SQL, OOP
 - Tools: Git/GitHub, Command Line, Unit Testing (Jest)
 
-**Official Translator and Interpreter** - Universidad Nacional de Colombia (2018)
+Official Translator and Interpreter - Universidad Nacional de Colombia (2018)
 - Spanish-English-Spanish certification
 
 ## 📫 Connect with Me
