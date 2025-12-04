@@ -64,13 +64,6 @@ Full-Stack Virtual Library Application | Team Leader
 - Deployed on Vercel (frontend) and Render (backend)
   
 
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjfy93&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ## 🎓 Education & Certifications
 
 Full Stack Software Developer Bootcamp - 4Geeks Academy (2025)
