@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a Junior Full-Stack Developer with a special focus on Front-end Development, based in Bogotá, Colombia. With 9+ years of professional experience in client-facing technical projects, I bring a unique perspective to software development—combining meticulous attention to detail with strong stakeholder communication and project management skills.
+I'm a Full-Stack Developer with a special focus on Front-end Development, based in Bogotá, Colombia. With 9+ years of professional experience in client-facing technical projects, I bring a unique perspective to software development—combining meticulous attention to detail with strong stakeholder communication and project management skills.
 
 - 🔭 I'm currently working on advanced React projects with WebGL animations and serverless architectures
 - 🌱 I'm currently learning advanced React patterns, UI/UX design principles, and GSAP animations
