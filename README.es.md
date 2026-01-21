@@ -2,7 +2,7 @@
 
 ## 🚀 Acerca de mí:
 
-Soy desarrolladora junior fullstack con especial interés en desarrollo front-end y vivo en Bogotá, Colombia. Con más de nueve años de experiencia profesional en proyectos técnicos orientados al cliente, aporto una perspectiva única al desarrollo de software, combinando una meticulosa atención al detalle con sólidas habilidades de comunicación con las partes interesadas y de gestión de proyectos.
+Soy desarrolladora fullstack con especial interés en desarrollo front-end y vivo en Bogotá, Colombia. Con más de nueve años de experiencia profesional en proyectos técnicos orientados al cliente, aporto una perspectiva única al desarrollo de software, combinando una meticulosa atención al detalle con sólidas habilidades de comunicación con las partes interesadas y de gestión de proyectos.
 
 - 🔭 Actualmente trabajo en proyectos avanzados de React con animaciones WebGL y arquitecturas sin servidor.
 - 🌱 Actualmente estoy aprendiendo patrones avanzados de React, principios de diseño de UI/UX y animaciones GSAP.
