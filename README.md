@@ -1,5 +1,13 @@
 # Hi there, I'm María José! 👋
 
+## Portfolio
+
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Site-mjfy93--portfolio.vercel.app-4ade80?style=for-the-badge)](https://mjfy93-portfolio.vercel.app/)
+
+> *🚧 Currently in development — check back for updates!*
+
+---
+
 ## 🚀 About Me
 
 I'm a Full-Stack Developer with a special focus on Front-end Development, based in Bogotá, Colombia. With 9+ years of professional experience in client-facing technical projects, I bring a unique perspective to software development—combining meticulous attention to detail with strong stakeholder communication and project management skills.
